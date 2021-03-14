@@ -2,7 +2,7 @@
 //  main.cpp
 //  cpp_test_2
 //
-//  Created by 赵子镜 on 2021/1/26.
+//  Created by mirror on 2021/1/26.
 //
 
 #include <iostream>
